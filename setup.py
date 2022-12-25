@@ -43,6 +43,7 @@ setup(
         "flask",
         "tornado",
         "bottle",
+        "cherrypy",
         "frameworks",
     ],
     classifiers=[
